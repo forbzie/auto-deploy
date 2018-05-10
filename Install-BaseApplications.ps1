@@ -18,7 +18,7 @@ try
     choco install vagrant -y
     choco install googlechrome -y
     choco install git -y
-    choco install github -y
+	choco install putty -y
 }
 catch
 {
